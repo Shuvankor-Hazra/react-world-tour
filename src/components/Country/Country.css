@@ -1,0 +1,14 @@
+.country{
+    border: 2px dashed rgb(102, 102, 255);
+    border-radius: 20px;
+    padding: 20px;
+}
+.btn{
+    padding: 15px 30px;
+    background: #008b8b;
+    transition: .3s ease-in-out ;
+}
+.btn:hover{
+    background: #006c6c;
+    /* transform: translate(10%); */
+}
